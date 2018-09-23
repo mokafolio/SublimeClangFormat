@@ -23,7 +23,7 @@ all_settings  = [
     "AllowShortFunctionsOnASingleLine", "AllowShortIfStatementsOnASingleLine",
     "AllowShortLoopsOnASingleLine", "AlwaysBreakAfterDefinitionReturnType",
     "AlwaysBreakAfterReturnType", "AlwaysBreakBeforeMultilineStrings",
-    "AlwaysBreakTemplateDeclarations", "BinPackArguments", "BinPackParameters",
+    "AlwaysBreakTemplateDeclarations", "AfterExternBlock", "BinPackArguments", "BinPackParameters",
     "BraceWrapping", "BreakAfterJavaFieldAnnotations", "BreakBeforeBinaryOperators",
     "BreakBeforeBraces", "BreakBeforeTernaryOperators",
     "BreakConstructorInitializersBeforeComma", "BreakConstructorInitializers", "ColumnLimit", "CommentPragmas",
