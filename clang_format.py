@@ -26,7 +26,7 @@ all_settings  = [
     "AlwaysBreakTemplateDeclarations", "BinPackArguments", "BinPackParameters",
     "BraceWrapping", "BreakAfterJavaFieldAnnotations", "BreakBeforeBinaryOperators",
     "BreakBeforeBraces", "BreakBeforeTernaryOperators",
-    "BreakConstructorInitializersBeforeComma", "ColumnLimit", "CommentPragmas",
+    "BreakConstructorInitializersBeforeComma", "BreakConstructorInitializers", "ColumnLimit", "CommentPragmas",
     "ConstructorInitializerAllOnOneLineOrOnePerLine",
     "ConstructorInitializerIndentWidth", "ContinuationIndentWidth",
     "Cpp11BracedListStyle", "DerivePointerAlignment", "DisableFormat",
